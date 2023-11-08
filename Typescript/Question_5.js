@@ -8,5 +8,5 @@ var message = famous_person + " 'once said, 'Imagination is more important than 
 
 document.write(message);
 
-Output;
+Output :
       Albert Einstein 'once said, 'Imagination is more important than knowledge.'
